@@ -25,6 +25,8 @@ def divisible_by_7(num: int):
 
 # Rewrote this function because it didn't actually work for every possibility, even though it passed the unit tests.
 # Changing my original from "and" to "or" (as suggested) does not catch every possibility either. This one does.
+
+
 def compare_it(num1, num2):
     if str(num1).isdigit() and str(num2).isdigit():
         return num1 == num2
