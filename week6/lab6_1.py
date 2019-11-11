@@ -1,5 +1,6 @@
 from string import punctuation
 
+
 # Write a function called divisible_by_7.
 # This function must take an integer as a parameter.
 # This function must return True if the passed integer
